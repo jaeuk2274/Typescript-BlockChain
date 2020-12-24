@@ -8,7 +8,7 @@ class Human {
         this.gender = gender;
     }
 }
-
+ 
 const jaeuk = new Human("Jaeuk", 27, "male");
 
 const sayHi = (person: Human): void => {
